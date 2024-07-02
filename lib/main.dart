@@ -24,7 +24,7 @@ class App extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: theme,
-      home: CategoriesScreen()
+      home: const CategoriesScreen(),
     );
   }
 }
