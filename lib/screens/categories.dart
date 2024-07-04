@@ -49,3 +49,12 @@ class CategoriesScreen extends StatelessWidget {
     );
   }
 }
+
+// class MealsScreenepo extends StatelessWidget {
+//   const MealsScreenepo({super.key});
+
+//   @override
+//   Widget build(BuildContext context) {
+//     return const Placeholder();
+//   }
+// }
